@@ -8,7 +8,6 @@ public class GitDemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GitDemoApplication.class, args);
-        SpringApplication.run(GitDemoApplication.class, args);
     }
 
 }
