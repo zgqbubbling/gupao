@@ -11,6 +11,7 @@ public class GitDemoApplication {
         System.out.println("test one");
         System.out.println("master test one");
         System.out.println("test two");
+        System.out.println("push test one");
     }
 
 }
